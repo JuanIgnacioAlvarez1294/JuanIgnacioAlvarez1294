@@ -1,17 +1,13 @@
 ![Imagen de Juan Ignacio Alvarez](Portada-github.png)
-
-## 👋 ¡Hola! Soy Juan Ignacio Alvarez, un apasionado estudiante de informática y aspirante a programador. Mi objetivo es ingresar al mundo IT y contribuir con mi pasión por la programación y el desarrollo de software.
-
 ## 🗂️ Secciones
-
 1. **Inicio:**
-   - ¡Bienvenido a [juanignacio.tech](https://juanignacio.tech)! Aquí encontrarás información sobre mí y mis proyectos.
+   - ¡ 👋 Bienvenido a [juanignacio.tech](https://juanignacio.tech)! Aquí encontrarás información sobre mí y mis proyectos.
 
 2. **Acerca de Mí:** 🙋‍♂️
    - Soy estudiante de informática con un fuerte interés en el desarrollo de software. Mi curiosidad y dedicación me llevan a aprender constantemente sobre nuevas tecnologías y prácticas de programación.
 
 3. **Tecnologías:** 💻
-   - Trabajo con tecnologías como **React**, **Spring Boot**, y **bases de datos** para construir aplicaciones modernas y eficientes.
+   - Trabajo con tecnologías como **React** ⚛️, **Spring Boot** 🌱, y **bases de datos** 🗄️ para construir aplicaciones modernas y eficientes.
 
 4. **Proyectos Destacados:** 🚀
    - [**Sistema de Recursos Humanos**](https://github.com/JuanIgnacioAlvarez/Sistema-de-Recursos-Humanos-con-Spring-Boot-y-React.git): Desarrollé un sistema completo de gestión de recursos humanos utilizando Spring Boot y React.
@@ -27,15 +23,7 @@
 - [Instagram](https://www.instagram.com/nacho.alvarez1294) 📸
 - [Facebook](https://www.facebook.com/profile.php?id=100086197218855) 👍
 - Email: contacto@juanignacio.tech 📧
-- [Currículum Vitae]() 📄
-
-## 🖼️ Capturas de Pantalla
-
-¡Pronto añadiré capturas de mis proyectos más recientes!
-
-## 🛠️ Instalación y Ejecución Local
-
-Si deseas ver mi portafolio en tu máquina local, simplemente clona este repositorio y sigue las instrucciones en el archivo `INSTALL.md`.
+- [Currículum Vitae](CV-Alvarez, Juan Ignacio.pdf) 📄
 
 ## 🙏 Agradecimientos
 
