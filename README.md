@@ -23,7 +23,7 @@
 - [Instagram](https://www.instagram.com/nacho.alvarez1294) 📸
 - [Facebook](https://www.facebook.com/profile.php?id=100086197218855) 👍
 - Email: contacto@juanignacio.tech 📧
-- [Currículum Vitae](CV-Alvarez, Juan Ignacio.pdf) 📄
+- [Currículum Vitae](CV-Alvarez,JuanIgnacio.pdf) 📄
 
 ## 🙏 Agradecimientos
 
