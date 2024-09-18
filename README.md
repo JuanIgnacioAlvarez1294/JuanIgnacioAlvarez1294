@@ -22,7 +22,7 @@
 - [GitHub](https://github.com/JuanIgnacioAlvarez1294) 🐱‍💻
 - [Instagram](https://www.instagram.com/nacho.alvarez1294) 📸
 - [Facebook](https://www.facebook.com/profile.php?id=100086197218855) 👍
-- Email: contacto@juanignacio.tech 📧
+- Email: nacho1294.ji@gmail.com 📧
 - [Currículum Vitae](CV-Alvarez,JuanIgnacio.pdf) 📄
 
 ## 🙏 Agradecimientos
