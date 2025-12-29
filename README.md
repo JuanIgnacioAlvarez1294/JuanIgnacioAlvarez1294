@@ -1,7 +1,7 @@
 ![Imagen de Juan Ignacio Alvarez](Portada-github.png)
 ## 🗂️ Secciones
 1. **Inicio:**
-   - ¡ 👋 Bienvenido a [juanignacio.tech](https://juanignacio.tech)! Aquí encontrarás información sobre mí y mis proyectos.
+   - ¡ 👋 Bienvenido a [juanignacio.tech](https://my-portafolio-5b6df.web.app/)! Aquí encontrarás información sobre mí y mis proyectos.
 
 2. **Acerca de Mí:** 🙋‍♂️
    - Soy estudiante de informática con un fuerte interés en el desarrollo de software. Mi curiosidad y dedicación me llevan a aprender constantemente sobre nuevas tecnologías y prácticas de programación.
