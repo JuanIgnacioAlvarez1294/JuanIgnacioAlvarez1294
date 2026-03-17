@@ -1,41 +1,46 @@
 ![Imagen de Juan Ignacio Alvarez](Portada-github.png)
+
 # ¡Hola! Soy Juan Ignacio Alvarez 👋
 
-### 👨‍💻 Licenciado en Informática | Backend Developer Junior
-Apasionado por la tecnología y el aprendizaje constante. Me especializo en el ecosistema **Java** y **Spring Boot**, construyendo soluciones escalables y eficientes.
+### 👨‍💻 Licenciado en Informática | Java Backend Developer
+Profesional graduado con una sólida base académica y técnica. Orientado al desarrollo de software de calidad, con especial interés en el ecosistema **Java & Spring Boot** y la creación de soluciones escalables.
 
 ---
 
 ## 🚀 Sobre Mí
-- 🎓 **Graduado:** Licenciatura en Informática - Universidad Siglo 21.
-- 📚 **Formación Continua:** Participante del programa **Talentos Tech** (Java) y estudiante autodidacta de Inglés Técnico.
-- 💡 **Mente de Principiante:** Enfocado en absorber conocimientos de expertos, trabajar en equipo y aportar valor desde el primer día.
+- 🎓 **Formación Académica:** Licenciado en Informática (Universidad Siglo 21) | Analista Universitario | Técnico Superior en Programación.
+- 🏗️ **Foco Técnico:** Construcción de arquitecturas de **Microservicios** con Spring Cloud y gestión de contenedores con **Docker**.
+- 📚 **Aprendizaje Activo:** Participante del programa **Talentos Tech** (Java Avanzado) y perfeccionando Inglés Técnico.
+- 🎯 **Objetivo:** Iniciar mi carrera profesional en el sector IT para aportar valor técnico, proactividad y excelencia académica en proyectos desafiantes de backend.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Backend:** Java, Spring Boot, Spring Cloud (Microservicios), Node.js.
-- **Frontend:** React, Next.js, JavaScript, HTML/CSS.
-- **Bases de Datos:** MySQL, MongoDB, Oracle, Firebase.
-- **Herramientas:** Docker, Git/GitHub, Postman, Maven, n8n.
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring Cloud (Eureka, Gateway), Node.js |
+| **Frontend** | React, Next.js, Tailwind CSS, JavaScript (ES6+) |
+| **Infra & DB** | Docker, Docker Compose, PostgreSQL, MySQL, Firebase |
+| **Herramientas** | Git/GitHub (Conventional Commits), Postman, Maven, n8n |
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### ⚡ [Láser Divino - Gestión de Turnos](https://github.com/JuanIgnacioAlvarez1294/Appointment-management.git)
-Sistema Full Stack para la administración de centros de estética. 
-- **Tech:** React, Next.js, Firebase (Auth & DB).
-- **Logro:** Integración de pagos reales con la API de **Mercado Pago**.
-
 ### 🏗️ [Platform B2B - Microservicios](https://github.com/JuanIgnacioAlvarez1294/company-platform.git)
-Arquitectura distribuida pensada para la escalabilidad empresarial.
-- **Tech:** Java, Spring Boot, Spring Cloud, Netflix Eureka, API Gateway.
-- **Estado:** Backend completo / Frontend en desarrollo.
+**Arquitectura distribuida** diseñada para la escalabilidad empresarial y alta disponibilidad.
+- **Key Techs:** Java, Spring Boot, **Spring Cloud**, Netflix Eureka, API Gateway, JWT.
+- **Logro:** Implementación de seguridad centralizada y registro de servicios para un entorno micro-operativo.
+
+### ⚡ [Láser Divino - Gestión de Turnos](https://github.com/JuanIgnacioAlvarez1294/Appointment-management.git)
+Sistema Full Stack integral para la administración automatizada de centros de estética. 
+- **Key Techs:** Next.js, Tailwind CSS, Firebase (Auth, Firestore, Hosting).
+- **Logro:** Integración de **pasarela de pagos Mercado Pago** con validación automática de estados y notificaciones por correo.
 
 ### 👥 [Sistema de RRHH](https://github.com/JuanIgnacioAlvarez1294/Sistema-de-Recursos-Humanos-con-Spring-Boot-y-React.git)
-Gestión integral de empleados y departamentos.
-- **Tech:** Spring Boot y React.
+Gestión robusta de capital humano con enfoque en eficiencia de datos y usabilidad.
+- **Key Techs:** Spring Boot & React.
 
 ---
 
@@ -45,4 +50,4 @@ Gestión integral de empleados y departamentos.
 - **Email:** [nacho1294.ji@gmail.com](mailto:nacho1294.ji@gmail.com)
 
 ---
-*“Disciplina, curiosidad y compromiso en cada línea de código”*.
+*"Como Licenciado, entiendo que la tecnología no solo se usa, se construye con propósito y excelencia técnica."*
