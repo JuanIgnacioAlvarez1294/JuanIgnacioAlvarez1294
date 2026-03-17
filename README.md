@@ -7,6 +7,11 @@ Profesional graduado con una sólida base académica y técnica. Orientado al de
 
 ---
 
+## 📄 Currículum Vítae
+- **Descargar CV actualizado:** [Lic. Juan Ignacio Alvarez - Licenciado en Informática](./Lic.InformáticaAlvarez.pdf)
+
+---
+
 ## 🚀 Sobre Mí
 - 🎓 **Formación Académica:** Licenciado en Informática (Universidad Siglo 21) | Analista Universitario | Técnico Superior en Programación.
 - 🏗️ **Foco Técnico:** Construcción de arquitecturas de **Microservicios** con Spring Cloud y gestión de contenedores con **Docker**.
